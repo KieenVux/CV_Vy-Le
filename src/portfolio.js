@@ -498,6 +498,16 @@ const experience = {
           color: "#9b1578",
         },
         {
+          title: "Product Development Executive",
+          company: "NAMVIET Fumigation JSC",
+          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "freecopy_logo.png",
+          duration: "10.2021 - 08.2022",
+          description:
+            "Contact with foreign counterparts to figure out potential fertilizers and pesticides products and make a long-term scheme to develop in Vietnam. Take responsibility for importing and registration procedures: make agreements and sales contracts, working with shipping units, conduct trial testing on fields and collect reports for official certification.",
+          color: "#fc1f20",
+        },
+        {
           title: "Hồng Loan Center",
           company: "English Teacher",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
