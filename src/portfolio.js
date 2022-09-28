@@ -37,7 +37,7 @@ const socialMediaLinks = [
   // instagram: "https://www.instagram.com/layman_brother/"
   {
     name: "LinkedIn",
-    link: "www.linkedin.com/in/lehoangvyyy/",
+    link: "https://www.linkedin.com/in/lehoangvyyy/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
